@@ -1,0 +1,27 @@
+.teams {
+    width: 1056px;
+    margin: 0 auto;
+}
+.single-team {
+    text-align: center;
+    float: left;
+    margin: 17px;
+}
+.single-team img {
+    margin: 10% 0 0 30%;
+}
+.custom{
+    background-color: #3A42FF !important;
+    border-color: #3A42FF !important;
+    border-radius: 0 !important;
+}
+@media (max-width: 768px) {
+    .single-team{
+        float: none;
+    }
+  }
+@media (max-width: 400px) {
+    .single-team{
+        float: none;
+    }
+}
