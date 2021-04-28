@@ -4,3 +4,6 @@
 * React-route used.
 * used conditional formatting
 * fully dynamic content
+
+# live host:
+team-tracker-mk.netlify.app
