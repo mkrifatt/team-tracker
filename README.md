@@ -6,4 +6,4 @@
 * fully dynamic content
 
 # live host:
-[Team-Tracker](team-tracker-mk.netlify.app)
+[Team-Tracker](https://team-tracker-mk.netlify.app/)
